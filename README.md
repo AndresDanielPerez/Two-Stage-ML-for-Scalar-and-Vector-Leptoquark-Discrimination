@@ -1,0 +1,2 @@
+# Two-Stage-Machine-Learning-Strategy-for-Scalar-and-Vector-Leptoquark-Discrimination-at-the-LHC
+ML framework to characterize leptoquark signals at the LHC, focusing on the discrimination between scalar (SLQ) and vector (VLQ) hypotheses. Based on a two-stage inference pipeline that combines a classifier trained to separate Standard Model backgrounds from a mixed LQ signal with a second classifier designed to distinguish between SLQ and VLQ.
